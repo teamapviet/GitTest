@@ -1,6 +1,6 @@
 
 public class PushTest {
     public static void main(String args[]) {
-        System.out.println("Push Test");
+        System.out.println("Push Test!");
     }
 }
